@@ -3,3 +3,4 @@
 
 ## Preview
 1. [Drum Kit](http://ganeshmkumar.github.io/javascript30/01-drum-kit/) 🥁
+2. [Clock](http://ganeshmkumar.github.io/javascript30/02-clock/) 🕔
