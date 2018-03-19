@@ -5,3 +5,4 @@
 1. [Drum Kit](http://ganeshmkumar.github.io/javascript30/01-drum-kit/) 🥁
 2. [Clock](http://ganeshmkumar.github.io/javascript30/02-clock/) 🕔
 3. [CSS Variables](http://ganeshmkumar.github.io/javascript30/03-css-variables/)
+4. [Array Cardio Day 1](http://ganeshmkumar.github.io/javascript30/04-array-cardio-day-1/)
