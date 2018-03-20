@@ -6,3 +6,5 @@
 2. [Clock](http://ganeshmkumar.github.io/javascript30/02-clock/) 🕔
 3. [CSS Variables](http://ganeshmkumar.github.io/javascript30/03-css-variables/)
 4. [Array Cardio Day 1](http://ganeshmkumar.github.io/javascript30/04-array-cardio-day-1/)
+5. [Flex Panel Gallery](http://ganeshmkumar.github.io/javascript30/05-flex-panel-gallery/)
+6. [Type Ahead](http://ganeshmkumar.github.io/javascript30/05-flex-panel-gallery/06-type-ahead/)
