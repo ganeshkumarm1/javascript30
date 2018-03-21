@@ -9,3 +9,4 @@
 5. [Flex Panel Gallery](http://ganeshmkumar.github.io/javascript30/05-flex-panel-gallery/)
 6. [Type Ahead](http://ganeshmkumar.github.io/javascript30/06-type-ahead/)
 7. [Array Cardio Day 2](http://ganeshmkumar.github.io/javascript30/07-array-cardio-day-2/)
+8. [Fun With HTML Canvas](http://ganeshmkumar.github.io/javascript30/08-fun-with-html-canvas/)
