@@ -8,3 +8,4 @@
 4. [Array Cardio Day 1](http://ganeshmkumar.github.io/javascript30/04-array-cardio-day-1/)
 5. [Flex Panel Gallery](http://ganeshmkumar.github.io/javascript30/05-flex-panel-gallery/)
 6. [Type Ahead](http://ganeshmkumar.github.io/javascript30/06-type-ahead/)
+7. [Array Cardio Day 2](http://ganeshmkumar.github.io/javascript30/07-array-cardio-day-2/)
