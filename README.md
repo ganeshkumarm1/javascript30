@@ -12,3 +12,4 @@
 8. [Fun With HTML Canvas](http://ganeshmkumar.github.io/javascript30/08-fun-with-html-canvas/)
 9. [Dev Tools Domination](http://ganeshmkumar.github.io/javascript30/09-dev-tools-domination/)
 10. [Hold Shift And Check Checkboxes](http://ganeshmkumar.github.io/javascript30/10-hold-shift-and-check-checkboxes/)
+11. [Custom Video Player](http://ganeshmkumar.github.io/javascript30/11-custom-video-player/)
