@@ -16,3 +16,4 @@
 12. [Key Sequence Detection](http://ganeshmkumar.github.io/javascript30/12-key-sequence-detection/)
 13. [Slide In On Scroll](http://ganeshmkumar.github.io/javascript30/13-slide-in-on-scroll/)
 14. [Javascript Reference VS Copying](http://ganeshmkumar.github.io/javascript30/14-javascript-references-vs-copying/)
+15. [Local Storage](http://ganeshmkumar.github.io/javascript30/15-local-storage/)
