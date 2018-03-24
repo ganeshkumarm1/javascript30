@@ -21,3 +21,4 @@
 17. [Sort Without Articles](http://ganeshmkumar.github.io/javascript30/17-sort-without-articles/)
 18. [Adding Up Times With Reduce](http://ganeshmkumar.github.io/javascript30/18-adding-up-times-with-reduce/)
 19. [Webcam Fun](http://ganeshmkumar.github.io/javascript30/19-web-cam-fun/)
+20. [Speech Detection](http://ganeshmkumar.github.io/javascript30/20-speech-detection/)
