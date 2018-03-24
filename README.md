@@ -19,3 +19,4 @@
 15. [Local Storage](http://ganeshmkumar.github.io/javascript30/15-local-storage/)
 16. [Mouse Move Shadow](http://ganeshmkumar.github.io/javascript30/16-mouse-move-shadow/)
 17. [Sort Without Articles](http://ganeshmkumar.github.io/javascript30/17-sort-without-articles/)
+18. [Adding Up Times With Reduce](http://ganeshmkumar.github.io/javascript30/18-adding-up-times-with-reduce/)
