@@ -23,3 +23,4 @@
 19. [Webcam Fun](http://ganeshmkumar.github.io/javascript30/19-webcam-fun/)
 20. [Speech Detection](http://ganeshmkumar.github.io/javascript30/20-speech-detection/)
 22. [Follow Along Link Highlighter](http://ganeshmkumar.github.io/javascript30/22-follow-along-link-highlighter/)
+23. [Speech Synthesis](http://ganeshmkumar.github.io/javascript30/23-speech-synthesis/)
