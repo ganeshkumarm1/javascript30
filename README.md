@@ -25,5 +25,5 @@
 22. [Follow Along Link Highlighter](http://ganeshmkumar.github.io/javascript30/22-follow-along-link-highlighter/)
 23. [Speech Synthesis](http://ganeshmkumar.github.io/javascript30/23-speech-synthesis/)
 24. [Sticky Nav](http://ganeshmkumar.github.io/javascript30/24-sticky-nav/)
-25. [Event Capture, Propagation, Bubbling And Once](http://ganeshmkumar.github.io/javascript30/25-event-capture-propagation-bubbling-and-once)
-26. [Stripe Follow Along Nav](http://ganeshmkumar.github.io/javascript30/26-stripe-follow-along-nav)
+25. [Event Capture, Propagation, Bubbling And Once](http://ganeshmkumar.github.io/javascript30/25-event-capture-propagation-bubbling-and-once/)
+26. [Stripe Follow Along Nav](http://ganeshmkumar.github.io/javascript30/26-stripe-follow-along-nav/)
