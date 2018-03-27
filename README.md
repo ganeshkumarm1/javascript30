@@ -27,3 +27,4 @@
 24. [Sticky Nav](http://ganeshmkumar.github.io/javascript30/24-sticky-nav/)
 25. [Event Capture, Propagation, Bubbling And Once](http://ganeshmkumar.github.io/javascript30/25-event-capture-propagation-bubbling-and-once/)
 26. [Stripe Follow Along Nav](http://ganeshmkumar.github.io/javascript30/26-stripe-follow-along-nav/)
+27. [Click And Drag](http://ganeshmkumar.github.io/javascript30/27-click-and-drag/)
