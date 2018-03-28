@@ -30,3 +30,4 @@
 27. [Click And Drag](http://ganeshmkumar.github.io/javascript30/27-click-and-drag/)
 28. [Video Speed Controller](http://ganeshmkumar.github.io/javascript30/28-video-speed-controller/)
 29. [Countdown Timer](http://ganeshmkumar.github.io/javascript30/29-countdown-timer/)
+30. [Whack A Mole](http://ganeshmkumar.github.io/javascript30/30-whack-a-mole/)
